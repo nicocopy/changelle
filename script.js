@@ -18,7 +18,7 @@ No se permite acentuación de palabras
 Solo letras minusculas
 No se permite acentuación de palabras   
 */
-/*var botonEncriptar = capturarHtml("#btn-encriptar");
+var botonEncriptar = capturarHtml("#btn-encriptar");
 var botonDesencriptar = capturarHtml("#btn-desencriptar");
 var botonCopy = capturarHtml("#btn-copy");
 var mensajeBox = capturarHtml("#msg");
