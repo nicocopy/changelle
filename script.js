@@ -85,7 +85,7 @@ function capturarHtml(nombre){
 
 function borrarTextoIngresado(){
     document.querySelector("#texto-ingresado").value = "";
-}*/
+}
 //Elementos HTML para trabajarlos con js
 const btnCopy = document.getElementById("btn-copy");
 const btnEncrypt = document.querySelector('.btn-encriptar');
