@@ -18,7 +18,7 @@ function encriptar(textoIngresado){
 
 
 
-/*
+
 function encriptar(textoIngresado){
     var textoEncriptado = "";
     for(var z=0; z<textoIngresado.length;z++){
@@ -34,4 +34,4 @@ function buscarLetra(letra){
         }
     }
     return letra;
-}*/
+}
